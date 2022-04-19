@@ -42,9 +42,9 @@ If you wish to order your own pcb and case, you can find all the necessary files
 
 ## Images:
 
-![Image of prototype pcb - front ](images/pcb-front.png)
+![Image of prototype pcb - front ](images/pcb-front.jpg)
 
-![Image of prototype pcb - back](images/pcb-back.png)
+![Image of prototype pcb - back](images/pcb-back.jpg)
 
 ![Image of Case - in design](images/case_bottom.png)
 
